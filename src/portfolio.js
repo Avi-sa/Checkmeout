@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AviKumar",
   nickname: "Avi",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / C++ and some other cool libraries and frameworks.",
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Python / Django / C++ and some other cool libraries and frameworks.",
   resumeLink:
     "https://drive.google.com/file/d/16Wcx2kzYGq5b9h7JBkoCnPHoxO6PYasM/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
