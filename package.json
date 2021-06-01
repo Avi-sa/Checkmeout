@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://Avi-sa.github.io/MyPortfolio/",
+  "homepage": "https://Avi-sa.github.io/Checkmeout/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",

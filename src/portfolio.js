@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AviKumar",
   nickname: "Avi",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / C++ and some other cool libraries and frameworks.",
   resumeLink:
     "https://drive.google.com/file/d/16Wcx2kzYGq5b9h7JBkoCnPHoxO6PYasM/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -85,9 +85,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Develop highly interactive Front end / User Interfaces along with backend support for your web applications",
+        "⚡ Ability to work fluently in multiple projects spanning across JS / Python / C++",
+        "⚡ Super fast onboarding to new code bases and projects",
       ],
       softwareSkills: [
         {
