@@ -1,0 +1,24 @@
+.footer-text {
+  text-align: center;
+  /* color: #868e96; */
+  font-weight: bold;
+  font-family: "Google Sans Regular";
+}
+
+.footer-div {
+  margin-top: 2rem;
+}
+
+.skills-header {
+  font-size: 50px;
+  line-height: normal;
+  font-family: "Google Sans Regular";
+  text-align: center;
+}
+
+.skills-header2 {
+  font-size: 18px;
+  line-height: normal;
+  font-family: "Google Sans Regular";
+  text-align: center;
+}
